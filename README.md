@@ -1,6 +1,7 @@
-#intothemoon
-¾Æ·¡ÀÇ Á¦ÀÛÅÛÇÃ¸´À» È°¿ëÇÏ¿© Á¦ÀÛÇÏ¿´½À´Ï´Ù.
-
+# intothemoon
+Mobile web template for invitation
+It's optimized for mobile.
+ì•„ë˜ì˜ ì œì‘í…œí”Œë¦¿ì„ í™œìš©í•˜ì—¬ ì œì‘í•˜ì˜€ìŠµë‹ˆë‹¤.
 
 
 # mobileWeddingTemplate
